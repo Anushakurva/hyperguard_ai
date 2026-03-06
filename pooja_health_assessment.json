@@ -1,0 +1,32 @@
+{
+  "data": {
+    "health_data": {
+      "age": 25,
+      "weight": 80.0,
+      "height": 165.0,
+      "bmi": 29.384756657483933,
+      "systolic": 140,
+      "diastolic": 80,
+      "smoking": 1,
+      "alcohol": 2,
+      "physical_activity": 1,
+      "salt_intake": 1
+    },
+    "prediction": {
+      "prediction": 3,
+      "stage": "Stage 2 Hypertension",
+      "risk_level": "High Risk",
+      "recommendations": [
+        "Consult healthcare provider immediately",
+        "Follow prescribed medication regimen",
+        "Strict dietary modifications required",
+        "Daily blood pressure monitoring",
+        "Regular medical follow-ups",
+        "Weight management through diet and exercise"
+      ]
+    },
+    "assessment_id": "assessment_20260306_074754"
+  },
+  "timestamp": "2026-03-06T07:47:54.693700",
+  "username": "pooja"
+}
